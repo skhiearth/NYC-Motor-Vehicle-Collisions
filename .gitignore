@@ -3,3 +3,4 @@
 .ipynb_checkpoints/NYC-Motor-Vehicle-Collisions-checkpoint.ipynb
 .DS_Store
 datasets/Motor_Vehicle_Collisions_-_Crashes.csv
+*.csv
